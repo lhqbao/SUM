@@ -1,0 +1,10 @@
+C:\Users\admin\Documents\GitHub\SUM\SUM\bin\Debug\SUM.exe.config
+C:\Users\admin\Documents\GitHub\SUM\SUM\bin\Debug\SUM.exe
+C:\Users\admin\Documents\GitHub\SUM\SUM\bin\Debug\SUM.pdb
+C:\Users\admin\Documents\GitHub\SUM\SUM\obj\Debug\SUM.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\SUM\SUM\obj\Debug\SUM.Form1.resources
+C:\Users\admin\Documents\GitHub\SUM\SUM\obj\Debug\SUM.Properties.Resources.resources
+C:\Users\admin\Documents\GitHub\SUM\SUM\obj\Debug\SUM.csproj.GenerateResource.cache
+C:\Users\admin\Documents\GitHub\SUM\SUM\obj\Debug\SUM.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\SUM\SUM\obj\Debug\SUM.exe
+C:\Users\admin\Documents\GitHub\SUM\SUM\obj\Debug\SUM.pdb
